@@ -1,6 +1,6 @@
 # Project React Tailwind Chat Socket.io
 
-![Project preview](./src/assets/preview.png)
+![Project preview](./client/src/assets/preview.png)
 
 This project is Chat Socket.io application developed in React, designed to be applied to any type of application. It is fully dynamic and abstracted. 
 
